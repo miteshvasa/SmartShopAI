@@ -1,0 +1,4 @@
+{"query":"Recommend a TechCo smartphone","expected_agent":"product_recommendation","must_include":["TechCo","recommend"]}
+{"query":"Compare prices for laptops","expected_agent":"price_comparison","must_include":["$"]}
+{"query":"Summarize the sentiment for speaker reviews","expected_agent":"review_summarization","must_include":["Average sentiment","reviews"]}
+{"query":"What is your laptop return policy?","expected_agent":"faq_policy","must_include":["Laptop Return Policy"]}

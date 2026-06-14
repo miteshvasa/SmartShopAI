@@ -1,0 +1,1 @@
+"""SmartShopAI application package."""
